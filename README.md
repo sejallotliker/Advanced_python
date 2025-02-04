@@ -1,17 +1,33 @@
 # Advanced_python
 
-In this repository the advanced python concepts are present, such as Object oriented programming, inheritance, threading etc.
+In this repository the advanced python concepts are present, such as Object oriented programming, inheritance, threading, daemon threads, pickling etc are discussed. 
 
 Content of the course leant from udemy course on Advanced python by Shambhavi Gupta. 
 
-Solving a programming problem by creating an object is called object oriented programming
+This repository contains 4 goole colab notebooks. 
+Part-1: 1. Object oriented programming -Introduction
+        2. Class, class variables
+        3. Self and init constructors
+        4. Inheritance 
+        5. Methods and variables
+        6. Method overloading and overriding
+        7. Setter and getter methods
+        8. Generators
+        9. Encapsulation
+        10. Polymorphism
+        11. Typing in python
+        12. Map, filter and reduce functions in python 
+        13. Time module
+        
+Part-2: 1. Threads in python programming
+        2. Thread synchronization
+        3. Semaphore
+        4. Inter thread communication
+        
+Part-3: 1. Directory in python
 
-An object has 2 characteristics
-1. Attribute
-2. Behaviour
-
-The concent of OOPs in python focuses on creating reusable code.
-
-A class is a blueprint for the object. 
+Part-4: 1. Daemon and non daemon threads
+        2. Pickling and unpickling in python
+        3. Pickling exceptions. 
 
 
